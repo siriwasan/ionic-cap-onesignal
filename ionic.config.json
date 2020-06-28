@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cap-onesignal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
