@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package com.siri.onesignal;
 
 import android.os.Bundle;
 
