@@ -21,3 +21,5 @@
 ## Reference
 
 1. <https://ionicframework.com/docs/native/onesignal>
+2. <https://capacitorjs.com/docs/apis/push-notifications>
+3. <https://capacitorjs.com/docs/guides/push-notifications-firebase#sending-a-test-notification>
