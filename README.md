@@ -23,3 +23,7 @@
 1. <https://ionicframework.com/docs/native/onesignal>
 2. <https://capacitorjs.com/docs/apis/push-notifications>
 3. <https://capacitorjs.com/docs/guides/push-notifications-firebase#sending-a-test-notification>
+4. <https://documentation.onesignal.com/docs/android-sdk-setup>
+5. <https://documentation.onesignal.com/docs/service-extensions#notification-extender-service>
+6. <https://documentation.onesignal.com/docs/android-notification-categories>
+7. <https://documentation.onesignal.com/docs/push-notification-guide>
